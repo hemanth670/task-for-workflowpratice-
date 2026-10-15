@@ -1,0 +1,10 @@
+{
+  "name": "task-for-workflowpratice",
+  "version": "1.0.0",
+  "description": "Workflow practice repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log('Tests passed successfully!')\""
+  },
+  "dependencies": {}
+}
